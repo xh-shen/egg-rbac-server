@@ -2,6 +2,8 @@
 
 本项目后端使用 node 和 egg 开发，数据库使用了 mysql、redis。
 
+配套 vue 前端：https://github.com/xh-shen/vue-rbac-admin.git。
+
 ## 开发启动
 
 需要本机电脑安装 mysql、redis，导入 rbac 数据库，然后安装依赖，启动项目。
